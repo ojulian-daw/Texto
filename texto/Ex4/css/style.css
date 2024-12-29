@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Playwrite+AU+VIC+Guides&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+.titulo{
+    font-family: "Roboto Mono", serif;
+    font-weight: bold;
+    font-size: 3rem;
+    letter-spacing: 0.75rem;
+}
+.titulo:hover{
+    color: blue;
+    font-style: italic;
+}
+.autor{
+    font-family: monospace;
+    font-weight: 100;
+    font-size: 1.75rem;
+    word-spacing: 1.2rem;
+}
+.titulo2{
+    font-family: serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.titulo2:hover{
+    color: red;
+    font-weight: bolder;
+}
+.texto{
+    font-family: "Parkinsans", serif;
+    font-size: 1.2rem;
+    text-align: justify;
+}

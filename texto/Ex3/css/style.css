@@ -1,0 +1,31 @@
+.titulo{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    letter-spacing: 0.75rem;
+}
+.titulo:hover{
+    color: blue;
+    font-style: italic;
+}
+.autor{
+    font-family: monospace;
+    font-weight: 100;
+    font-size: 1.75rem;
+    word-spacing: 1.2rem;
+}
+.titulo2{
+    font-family: serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.titulo2:hover{
+    color: red;
+    font-weight: bolder;
+}
+.texto{
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    text-align: justify;
+}
